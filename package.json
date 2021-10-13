@@ -9,11 +9,11 @@
   "author": "Fujisawa Shin",
   "license": "BSD",
   "dependencies": {
-    "optimist": "~0.5.2",
-    "underscore": "~1.5.1"
+    "optimist": "^0.6.1",
+    "underscore": "~1.13.1"
   },
   "devDependencies": {
-    "chai": "~1.6.1",
-    "mocha": "~1.11.0"
+    "chai": "~4.3.4",
+    "mocha": "~9.1.2"
   }
 }
